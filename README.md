@@ -32,7 +32,7 @@ Project 29: Double Click Heart - 31.01.
 Project 30: Auto Text Effect - 31.01.
 Project 31: Password Generator - 31.01.
 Project 32: Good, Cheap, Fast - 31.01.
-Project 33:
+Project 33: Notes App (localStorage) - 01.02.
 Project 34:
 Project 35:
 Project 36:
