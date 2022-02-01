@@ -34,7 +34,7 @@ Project 31: Password Generator - 31.01.
 Project 32: Good, Cheap, Fast - 31.01.
 Project 33: Notes App (localStorage) - 01.02.
 Project 34: Animated Countdown - 01.02.
-Project 35:
+Project 35: Image Carusel - 01.02.
 Project 36:
 Project 37:
 Project 38:
