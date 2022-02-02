@@ -37,8 +37,8 @@ Project 34: Animated Countdown - 01.02.
 Project 35: Image Carusel - 01.02.
 Project 36: Hoverboard - 01.02.
 Project 37: Pokedex - 01.02.
-Project 38:
-Project 39:
+Project 38: Mobile Tab Navigation - 02.02.
+Project 39: Password Strength Background - 02.02.
 Project 40:
 Project 41:
 Project 42:
