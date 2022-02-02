@@ -39,9 +39,9 @@ Project 36: Hoverboard - 01.02.
 Project 37: Pokedex - 01.02.
 Project 38: Mobile Tab Navigation - 02.02.
 Project 39: Password Strength Background - 02.02.
-Project 40:
-Project 41:
-Project 42:
+Project 40: 3D Boxes Background - 02.02.
+Project 41: Verify Account - 02.02.
+Project 42: Live User Filter - 02.02.
 Project 43:
 Project 44:
 Project 45:
