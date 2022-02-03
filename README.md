@@ -46,7 +46,7 @@ Project 43: Let Us Know Your Feedback - 02.02.
 Project 44: Custom Range Slider - 03.02.
 Project 45: Netflix Mobile Navigation - 03.02.
 Project 46: Quiz App - 03.02.
-Project 47:
-Project 48:
-Project 49:
+Project 47: Testimonial Box - 03.02.
+Project 48: Random Image Feed - 03.02.
+Project 49: Todo List - 03.02.
 Project 50:
