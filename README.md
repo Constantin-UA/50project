@@ -49,4 +49,4 @@ Project 46: Quiz App - 03.02.
 Project 47: Testimonial Box - 03.02.
 Project 48: Random Image Feed - 03.02.
 Project 49: Todo List - 03.02.
-Project 50:
+Project 50: Catch The Insect - 03.02.
