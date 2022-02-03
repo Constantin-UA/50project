@@ -43,9 +43,9 @@ Project 40: 3D Boxes Background - 02.02.
 Project 41: Verify Account - 02.02.
 Project 42: Live User Filter - 02.02.
 Project 43: Let Us Know Your Feedback - 02.02.
-Project 44:
-Project 45:
-Project 46:
+Project 44: Custom Range Slider - 03.02.
+Project 45: Netflix Mobile Navigation - 03.02.
+Project 46: Quiz App - 03.02.
 Project 47:
 Project 48:
 Project 49:
